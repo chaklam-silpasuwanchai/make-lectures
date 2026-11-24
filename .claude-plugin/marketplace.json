@@ -1,13 +1,13 @@
 {
   "name": "make-lectures",
   "owner": { "name": "Chaklam Silpasuwanchai" },
-  "metadata": { "description": "Skills for making teaching materials: lecture decks now, workshop docs next." },
+  "metadata": { "description": "Skills for making teaching materials: lecture decks and workshop docs." },
   "plugins": [
     {
       "name": "teach",
       "source": "./plugins/teach",
-      "description": "Build and revise lecture decks for professionals (plain English, maps, big visuals, sourced claims, real cases, a workshop) and handle slide comments.",
-      "version": "0.1.0",
+      "description": "Build and revise lecture decks for professionals (plain English, maps, big visuals, sourced claims, real cases, a workshop) and write workshop handouts; handle his comments on both.",
+      "version": "0.2.0",
       "author": { "name": "Chaklam Silpasuwanchai" },
       "license": "MIT",
       "category": "productivity"
