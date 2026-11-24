@@ -1,6 +1,6 @@
 {
   "name": "teach",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Teaching skills: build and revise lecture decks (and later workshop docs) the way Chaklam wants them, and work through his comments.",
   "author": { "name": "Chaklam Silpasuwanchai" },
   "homepage": "https://github.com/chaklam-silpasuwanchai/make-lectures",
